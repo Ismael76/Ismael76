@@ -1,5 +1,5 @@
 
-* 👋 Hello there, I'm Ismael :)
+* 👋 Hello there, I'm Muhammed Ismael :)
 * 👀 I am looking to become a Full Stack Developer
 * 🌱 I’m currently learning Full Stack Development: HTML, CSS, React, NodeJS, Python & Django!
 * 📫 How to reach me:
