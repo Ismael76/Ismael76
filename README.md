@@ -2,7 +2,7 @@
 * 👋 Hello there, I'm Muhammed Ismael :)
 * 👀 I am a Full Stack Developer
 * 🌱 My Tech Stack: HTML, CSS, Javascript, React, NodeJS, Python, Django, Flask, Docker, PostgreSQL, Express.js, TailwindCSS
-* 📫 How to reach me:
+* 📫 Contact Me:
 
    *  Email: Ismaelali78@Outlook.com
    *  LinkedIn: https://www.linkedin.com/in/muhammed-ismael-ali-a363b7227/
