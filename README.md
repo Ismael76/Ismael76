@@ -1,7 +1,7 @@
 
 * 👋 Hello there, I'm Muhammed Ismael :)
-* 👀 I am looking to become a Full Stack Developer
-* 🌱 I’m currently learning Full Stack Development: HTML, CSS, Javascript, React, NodeJS, Python & Django!
+* 👀 I am a Full Stack Developer
+* 🌱 My Tech Stack: HTML, CSS, Javascript, React, NodeJS, Python, Django, Flask, Docker, PostgreSQL, Express.js, TailwindCSS
 * 📫 How to reach me:
 
    *  Email: Ismaelali78@Outlook.com
