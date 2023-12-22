@@ -3,9 +3,9 @@
 * 👀 I am a Full Stack Developer
 * 🌱 My Tech Stack:
 
-  - Languages: Javascript, Python
+  - **Languages**: Javascript, Python
   
-  - Technologies: HTML, CSS, NodeJS, Express.js, React, Flask, Django, PostgreSQL, TailwindCSS, Docker
+  - **Technologies**: HTML, CSS, NodeJS, Express.js, React, Flask, Django, PostgreSQL, TailwindCSS, Docker
     
 * 📫 Contact Me:
 
