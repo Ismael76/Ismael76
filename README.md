@@ -3,7 +3,10 @@
 * 👀 I am a Full Stack Developer
 * 🌱 My Tech Stack:
 
-  Languages: Javascript, Python              Technologies: HTML, CSS, NodeJS, Express.js, React, Flask, Django, PostgreSQL, TailwindCSS, Docker
+  - Languages: Javascript, Python
+  
+  - Technologies: HTML, CSS, NodeJS, Express.js, React, Flask, Django, PostgreSQL, TailwindCSS, Docker
+    
 * 📫 Contact Me:
 
    *  Email: Ismaelali78@Outlook.com
